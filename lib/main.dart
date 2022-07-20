@@ -1,3 +1,4 @@
+import 'package:design_account_explore/chat_screen.dart';
 import 'package:design_account_explore/explore_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home:  ExploreScreen(),
+      home:  ChatScreen(),
     );
   }
 }

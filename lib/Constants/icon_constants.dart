@@ -12,7 +12,7 @@ class IconConstants{
   static const right = '$base/right.jpg';
   static const add = '$base/add_blue.png';
   static const bicycle = '$base/bicycle.jpg';
-  static const arrowForwardHalf= '$base/arr.png';
+  static const arrowForwardHalf= '$base/arr.webp';
   static const whiteHeart = '$base/whiteheart.jpg';
   static const heart = '$base/h.png';
   static const fourDots = '$base/four_dots.png';

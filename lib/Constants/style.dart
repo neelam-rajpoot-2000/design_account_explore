@@ -4,9 +4,9 @@ class AppStyles {
 
   static TextStyle whiteSemiBoldFont = TextStyle(
     fontFamily: "Segoe UI",
-    color: ColorConstants.whiteColor,
-    fontWeight: FontWeight.w700,
-    fontSize: 40,
+    color: ColorConstants.darkBlueColor,
+    fontWeight: FontWeight.w600,
+    fontSize: 30,
     // height: 1.5,
     //letterSpacing: 1.5,
   );
